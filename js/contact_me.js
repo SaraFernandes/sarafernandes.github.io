@@ -45,7 +45,7 @@ $(function() {
                     $('#success').html("<div class='alert alert-danger'>");
                     $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
                         .append("</button>");
-                    $('#success > .alert-danger').append("<strong>Sorry " + firstName + ", Parece que meu servidor de correio não está respondendo. Por favor, tente novamente mais tarde!");
+                    $('#success > .alert-danger').append("<strong>Desculpa " + firstName + ", parece que meu servidor de correio não está respondendo. Por favor, tente novamente mais tarde!");
                     $('#success > .alert-danger').append('</div>');
                     //clear all fields
                     $('#contactForm').trigger("reset");
