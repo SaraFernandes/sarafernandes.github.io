@@ -4,8 +4,8 @@ subtitle: Graphic Design
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: cert3.png
-thumbnail: cert3-thumbnail.png
+img: cert3.jpg
+thumbnail: cert3-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
